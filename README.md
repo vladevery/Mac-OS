@@ -3,8 +3,11 @@
 Programs:
 
 Menuist - !!! for context menu
+
 Parallels
+
 Double`commander
+
 Shottr
 Quitty - for auto close apps
 Proxyman / Wireshark
